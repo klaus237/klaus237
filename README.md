@@ -1,20 +1,10 @@
+# Hi there 👋, I'm Klaus Lagom Bukam Elie
+### Senior Full-Stack Developer | Angular, React, Node.js & Cloud Deployments
+
+### 👨‍💻 About Me  
+I'm a highly skilled **Angular developer** with over 7 years of experience designing, building, and maintaining dynamic web applications. Proficient in AngularJS, Angular (2+), React, TypeScript, and modern front-end technologies. Experienced in developing scalable consumer-internet applications, integrating WebRTC, and managing Linux-based web servers (Apache2, Nginx).
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/klaus237.png" width="120" alt="Klaus Lagom Bukam Elie" style="border-radius: 10px;"/>
-      <br/>
-      <small>Senior Full-Stack Developer</small>
-    </td>
-    <td style="padding-left: 20px; vertical-align: top;">
-      <h1>Hi there 👋, I'm Klaus Lagom Bukam Elie</h1>
-      <h2>Senior Full-Stack Developer | Angular, React, Node.js & Cloud Deployments</h2>
-   <h3>👨‍💻 About Me</h3>
-      <p>I'm a highly skilled <strong>Angular developer</strong> with over 7 years of experience designing, building, and maintaining dynamic web applications. Proficient in AngularJS, Angular (2+), React, TypeScript, and modern front-end technologies. Experienced in developing scalable consumer-internet applications, integrating WebRTC, and managing Linux-based web servers (Apache2, Nginx).</p>
-    </td>
-  </tr>
-</table>
 
 ---
 ### 🛠️ Technical Skills
