@@ -2,7 +2,7 @@
 ###  Full-Stack Developer | Angular, React, Node.js & Cloud Deployments
 
 ### 👨‍💻 About Me  
-I'm a highly skilled **Angular developer** with over 7 years of experience designing, building, and maintaining dynamic web applications. Proficient in AngularJS, Angular (2+), React, TypeScript, and modern front-end technologies. Experienced in developing scalable consumer-internet applications, integrating WebRTC, and managing Linux-based web servers (Apache2, Nginx).
+I'm a highly skilled **Angular developer** with over 6 years of experience designing, building, and maintaining dynamic web applications. Proficient in AngularJS, Angular (2+), React, TypeScript, and modern front-end technologies. Experienced in developing scalable consumer-internet applications, integrating WebRTC, and managing Linux-based web servers (Apache2, Nginx).
 
 
 
@@ -38,20 +38,73 @@ I'm a highly skilled **Angular developer** with over 7 years of experience desig
 ![Media Queries](https://img.shields.io/badge/Media_Queries-159957?style=for-the-badge&logo=css3&logoColor=white)
 
 
+---
 
+
+### 🚀 Featured Projects
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<!-- ngx-agile-table -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; text-align: center;">
+<a href="https://www.npmjs.com/package/ngx-agile-table" target="_blank" rel="noopener">
+<img src="https://raw.githubusercontent.com/klaus237/ngx-agile-table/main/logo.png" alt="ngx-agile-table logo" style="width: 100px; height: 100px; object-fit: contain;"/>
+</a>
+<h3><a href="https://www.npmjs.com/package/ngx-agile-table" target="_blank" rel="noopener" style="text-decoration:none; color:#0366d6;">ngx-agile-table</a></h3>
+<p>A customizable Angular component library for advanced tables with sorting, filtering, pagination, and inline editing.</p>
+<a href="https://www.npmjs.com/package/ngx-agile-table" target="_blank" rel="noopener" style="display:inline-block; padding: 6px 12px; background-color:#0366d6; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">View on npm</a>
+</div>
+
+<!-- News Search Web Application -->
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; text-align: center;">
+<h3>News Search Web Application</h3>
+<p>A web application for searching and managing news articles with React.</p>
+<a href="URL_DU_PROJET_SUR_GITHUB" target="_blank" rel="noopener" style="display:inline-block; padding: 6px 12px; background-color:#24292e; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">View on GitHub</a>
+</div>
+
+<!-- Clothing Items Manager -->
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; text-align: center;">
+<h3>Clothing Items Manager</h3>
+<p>A full-stack app built with React, Node.js, and MongoDB for managing clothing items.</p>
+<a href="URL_DU_PROJET_SUR_GITHUB" target="_blank" rel="noopener" style="display:inline-block; padding: 6px 12px; background-color:#24292e; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">View on GitHub</a>
+</div>
+
+<!-- ROOTS -->
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; text-align: center;">
+<a href="https://roots.djangii.com/" target="_blank" rel="noopener">
+<img src="https://roots.djangii.com/assets/img/rootLogo.png" alt="ROOTS logo" style="width: 90px; height: 50px; object-fit: contain;"/>
+</a>
+<h3><a href="https://roots.djangii.com/" target="_blank" rel="noopener" style="text-decoration:none; color:#0366d6;">ROOTS</a></h3>
+<p>An association dedicated to the African diaspora, facilitating repatriation, dignified funerals, and family support abroad.</p>
+<a href="https://roots.djangii.com/" target="_blank" rel="noopener" style="display:inline-block; padding: 6px 12px; background-color:#0366d6; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">Visit Website</a>
+</div>
+
+<!-- Djangii -->
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: 250px; text-align: center;">
+<a href="https://djangii.com/#/home" target="_blank" rel="noopener">
+<img src="https://djangii.com/assets/images/Djangii.png" alt="Djangii logo" style="width: 50px; height: 50px; object-fit: contain;"/>
+</a>
+<h3><a href="https://djangii.com/#/home" target="_blank" rel="noopener" style="text-decoration:none; color:#0366d6;">Djangii</a></h3>
+<p>An online tontine system for collecting monetary contributions among members to achieve collective or individual goals.</p>
+<a href="https://djangii.com/#/home" target="_blank" rel="noopener" style="display:inline-block; padding: 12px 12px; background-color:#0366d6; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">Visit Website</a>
+</div>
+</div>
 
 ---
 
 ### 💼 Professional Experience
 
-#### Freelance Angular Developer - Orenis Group, USA (Mar 2022 – Present)  
+#### Freelance Angular Developer - Orenis Group, USA (May 2023 – Present)  
 - Develop responsive Angular web pages with TypeScript  
 - Design and maintain scalable consumer-internet web applications  
 - Optimize UI components using HTML5, CSS3, Bootstrap, and ng2-smart-table  
 - Collaborate with clients on requirements, advise technically, and ensure timely delivery  
 - Manage full project lifecycle in Linux environments with integration of third-party APIs  
 
-#### Angular Developer - Inet Consulting, Douala, Cameroon (Aug 2019 – Present)  
+#### Angular Developer - Inet Consulting, Douala, Cameroon (Jun 2019 – Present)  
 - Built dynamic AngularJS applications to enhance financial services platforms  
 - Integrated REST APIs and improved performance via lazy loading and route guards  
 - Designed responsive UI components with Angular Material and Bootstrap  
@@ -76,7 +129,7 @@ Co-creator and maintainer of a highly customizable Angular table component libra
 ### 🎓 Education
 
 **Software and Engineering**  
-TripleTen (Sep 2024 – Present)  
+TripleTen ( Sep 2025 )  
 
 **Bachelor in Computer Science and Engineering**  
 CMR Institute of Technology, Bengaluru, India (Jan 2018)  
@@ -116,41 +169,5 @@ CMR Institute of Technology, Bengaluru, India (Jan 2018)
 ---
 
 
-### 🚀 Featured Projects
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; text-align: center;">
-    <a href="https://www.npmjs.com/package/ngx-agile-table" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/klaus237/ngx-agile-table/main/logo.png" alt="ngx-agile-table logo" style="width: 100px; height: 100px; object-fit: contain;"/>
-    </a>
-    <h3><a href="https://www.npmjs.com/package/ngx-agile-table" target="_blank" rel="noopener" style="text-decoration:none; color:#0366d6;">ngx-agile-table</a></h3>
-    <p>A customizable Angular library for advanced tables with sorting, filtering, pagination, and inline editing.</p>
-    <a href="https://www.npmjs.com/package/ngx-agile-table" target="_blank" rel="noopener" style="display:inline-block; padding: 6px 12px; background-color:#0366d6; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">View on npm</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; text-align: center;">
-    <a href="https://roots.djangii.com/" target="_blank" rel="noopener">
-      <img src="https://roots.djangii.com/assets/img/rootLogo.png" alt="ROOTS logo" style="width: 90px; height: 50px; object-fit: contain;"/>
-    </a>
-    <h3><a href="https://roots.djangii.com/" target="_blank" rel="noopener" style="text-decoration:none; color:#0366d6;">ROOTS</a></h3>
-    <p>An association dedicated to the African diaspora, facilitating repatriation, dignified funerals, and family support abroad.</p>
-    <a href="https://roots.djangii.com/" target="_blank" rel="noopener" style="display:inline-block; padding: 6px 12px; background-color:#0366d6; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">Visit Website</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; width: 250px; text-align: center;">
-    <a href="https://djangii.com/#/home" target="_blank" rel="noopener">
-      <img src="https://djangii.com/assets/images/Djangii.png" alt="Djangii logo" style="width: 50px; height: 50px; object-fit: contain;"/>
-    </a>
-    <h3><a href="https://djangii.com/#/home" target="_blank" rel="noopener" style="text-decoration:none; color:#0366d6;">Djangii</a></h3>
-    <p>An online tontine system for collecting monetary contributions among members to achieve collective or individual goals.</p>
-    <a href="https://djangii.com/#/home" target="_blank" rel="noopener" style="display:inline-block; padding: 12px 12px; background-color:#0366d6; color:white; border-radius:4px; text-decoration:none; font-weight:bold;">Visit Website</a>
-  </div>
-
-</div>
-
-
-
----
 
 *Thanks for stopping by! Feel free to connect or explore my projects.*
